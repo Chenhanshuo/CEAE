@@ -14,4 +14,4 @@ With the provided core code, the defense effects of the proposed method under di
 Datasets
 The experiments in this work are based on the following two datasets:
 RML2016.10a: A widely used public benchmark dataset for automatic modulation recognition tasks.
-HSDRMD: A self-built dataset by our research team, constructed to validate the generalization capability of the proposed method in more complex scenarios.
+HSDRMD: A self-built dataset, constructed to validate the generalization capability of the proposed method in more complex scenarios.
